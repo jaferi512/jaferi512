@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaferi512
-- 👀 I’m interested in Reactjs and React Native 
-- 🌱 I’m currently learning Cross Platform Mobile Applications Frameworks (Flutter)
+- 👀 Reactjs and React Native Developer
+- 🌱 I’m currently learning Blockchain Development using Rust
 - 💞️ I’m looking to collaborate on AI Using Python
 - 📫 Contact me at adnanhaiderjaferi512@gmail.com
 
