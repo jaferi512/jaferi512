@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaferi512
 - 👀 Full Stack Mobile App Engineer
-- 🌱 I’m currently learning Blockchain Development
+- 🌱 I’m currently learning Flutter Development
 - 💞️ I’m looking to collaborate on AI Open Source Projects
 - 📫 Contact me at adnanhaiderjaferi512@gmail.com
 
