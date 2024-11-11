@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jaferi512
 - 👀 Full Stack Mobile App Engineer
-- 🌱 I’m currently learning Flutter Development
+- 🌱 I’m currently learning Kotlin Multiplatform
 - 💞️ I’m looking to collaborate on AI Open Source Projects
-- 📫 Contact me at adnanhaiderjaferi512@gmail.com
+- 📫 Contact me at adnanjaferi512@outlook.com
 
 
 ## My favorite tools and technologies ⚙️ 
