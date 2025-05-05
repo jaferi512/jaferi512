@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaferi512
-- 👀 Full Stack Mobile App Engineer
-- 🌱 I’m currently learning Kotlin Multiplatform
+- 👀 Senior React Native Developer
+- 🌱 I’m currently learning Kotlin Multiplatform with Jetpack Compose
 - 💞️ I’m looking to collaborate on AI Open Source Projects
 - 📫 Contact me at adnanjaferi512@outlook.com
 
