@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaferi512
-- 👀 Full Stack Mobile Engineer (React Native Developer)
+- 👀 Software Engineer
 - 🌱 I’m currently learning Kotlin Multiplatform with Jetpack Compose
 - 💞️ I’m looking to collaborate on AI Open Source Projects
 - 📫 Contact me at adnanjaferi512@outlook.com
