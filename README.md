@@ -1,124 +1,83 @@
-- 👋 Hi, I’m @jaferi512
-- 👀 Software Engineer
-- 🌱 I’m currently learning Kotlin Multiplatform with Jetpack Compose
-- 💞️ I’m looking to collaborate on AI Open Source Projects
-- 📫 Contact me at adnanjaferi512@outlook.com
+<h1 align="center">Hi, I'm Adnan Haider 👋</h1>
+<h3 align="center">ML Researcher in Medical Generative AI · Ex-Senior Software Engineer</h3>
 
+<p align="center">
+  <a href="mailto:adnanjaferi512@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/adnanjaferi512/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <!-- Add once you have a profile: -->
+  <!-- <a href="GOOGLE_SCHOLAR_URL"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a> -->
+  <!-- <a href="HUGGINGFACE_URL"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a> -->
+</p>
 
-## My favorite tools and technologies ⚙️ 
+---
 
-> Tools and technologies that I have worked with and am interested in
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
-    </td>
-            <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
- <tr>
-        <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
- </tr>
-</table>
+### About me
 
+- 🎓 **Master's researcher** in Computer Science at **UESTC**, Chengdu, China (GPA 3.96/4.00, graduating July 2027)
+- 🧠 Working on **few-shot medical image generation** with latent diffusion models, vision-language models and parameter-efficient fine-tuning
+- 🛠️ **5 years in industry** as a Senior Software Engineer and App Team Lead, shipping full-stack and mobile products for 20+ clients
+- 🎯 My focus: **medical AI that works beyond the paper**, from research to deployed, efficient models
+- 🤝 Open to **PhD positions** and **ML engineering / applied research roles** in Europe from 2027
 
-## Github stats 📊 
+---
 
-<details> 
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jaferi512&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaferi512&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
+### 🔬 Current research
+
+**Contextual Multi-Token Hypergraph Adaptation for Few-Shot Brain MRI Generation**
+- A lightweight hypergraph adapter (1.18M params) that refines all CLIP token embeddings to steer Stable Diffusion toward clinical semantics
+- Combined with LoRA: **2.78M trainable parameters, 310× fewer** than full fine-tuning
+- **~37–40% lower FID** than the textual-inversion baseline on BraTS 2021 (T1, T1CE, T2, FLAIR)
+- Synthetic images alone train a classifier to **65.0%** modality accuracy vs. 60.0% from 15 real images per modality
+- 📄 Manuscript in preparation · code will be released after publication
+
+---
+
+### 📌 Featured projects
+
+<!-- Replace each placeholder with a real repo link as you publish them. Keep only projects that are finished. -->
+
+| Project | What it shows | Stack |
+|---|---|---|
+| **HGNN Medical Diffusion** *(coming soon)* | Few-shot MRI generation with a hypergraph adapter + LoRA | PyTorch · Diffusers · CLIP |
+| **On-Device Medical Screening App** *(coming soon)* | Compressed model running offline on mobile | React Native · ONNX / Core ML / TFLite |
+| **TB Detection on Chest X-rays** *(coming soon)* | U-Net segmentation + ResNet-18 classification study | PyTorch · OpenCV |
+
+---
+
+### 📚 Publications
+
+- **A. Haider**, I. Ullah, S. Hakeem, K. Ali. *Accurate lung segmentation does not improve deep learning detection of tuberculosis on chest radiographs: a controlled U-Net and ResNet-18 study.* Pak J Med Cardiol Rev, 2026. [DOI](https://doi.org/10.66021/pakmcr1834)
+- S. Zheng, W. Zhang, C. Tian, **A. Haider**, et al. *Masked Implicit Neural Representation.* Under review at IEEE Transactions on Industrial Informatics, 2026.
+- F. D. Puspitasari, C. Zhang, **A. Haider**, et al. *Sora as a World Model? A Complete Survey on Text-to-Video Generation.* Under review at ACM Computing Surveys, 2026.
+
+---
+
+### ⚙️ Tech stack
+
+**AI & Research**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,linux" alt="AI stack"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+</p>
+
+Diffusion models (Stable Diffusion, DDPM) · Vision-language models (CLIP, BLIP, MedSigLIP, MedGemma) · LoRA / PEFT · Graph neural networks · FID, KID, SSIM evaluation
+
+**Software Engineering**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,django,graphql,postgres,mysql,docker,aws,git" alt="Software stack"/>
+</p>
+
+React Native · Full-stack SaaS · CI/CD · Code review & team leadership
+
+---
 
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>📊 GitHub stats</summary>
   <br/>
- 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Adnan Jaferi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jaferi512&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=jaferi512&show_icons=true&count_private=true&hide_border=true" height="170"/>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaferi512&layout=compact&langs_count=8&hide_border=true" height="170"/>
 </details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=jaferi512&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
-
-## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaferi512&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
