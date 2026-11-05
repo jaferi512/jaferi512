@@ -75,9 +75,8 @@ React Native · Full-stack SaaS · CI/CD · Code review & team leadership
 
 ---
 
-<details>
-  <summary>📊 GitHub stats</summary>
-  <br/>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=jaferi512&show_icons=true&count_private=true&hide_border=true" height="170"/>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaferi512&layout=compact&langs_count=8&hide_border=true" height="170"/>
-</details>
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaferi512&hide_border=true" alt="GitHub streak"/>
+</p>
