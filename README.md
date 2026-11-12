@@ -40,7 +40,7 @@
 |---|---|---|
 | **HGNN Medical Diffusion** *(coming soon)* | Few-shot MRI generation with a hypergraph adapter + LoRA | PyTorch · Diffusers · CLIP |
 | **On-Device Medical Screening App** *(coming soon)* | Compressed model running offline on mobile | React Native · ONNX / Core ML / TFLite |
-| [**TB Detection on Chest X-rays**](https://github.com/jaferi512/tb-lung-segmentation-study) | Controlled study: does lung segmentation help TB detection? U-Net (Dice 0.975) + ResNet-18, leakage-free 5-fold CV, DeLong test, Grad-CAM · code for my paper | PyTorch · OpenCV · scikit-learn |
+- **A. Haider**, I. Ullah, S. Hakeem, K. Ali. *Accurate lung segmentation does not improve deep learning detection of tuberculosis on chest radiographs: a controlled U-Net and ResNet-18 study.* Pak J Med Cardiol Rev, 2026. [DOI](https://pakjmcr.com/index.php/1/article/view/1834) · [Code](https://github.com/jaferi512/tb-lung-segmentation-study)
 
 ---
 
