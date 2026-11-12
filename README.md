@@ -40,7 +40,7 @@
 |---|---|---|
 | **HGNN Medical Diffusion** *(coming soon)* | Few-shot MRI generation with a hypergraph adapter + LoRA | PyTorch · Diffusers · CLIP |
 | **On-Device Medical Screening App** *(coming soon)* | Compressed model running offline on mobile | React Native · ONNX / Core ML / TFLite |
-| **TB Detection on Chest X-rays** *(coming soon)* | U-Net segmentation + ResNet-18 classification study | PyTorch · OpenCV |
+| [**TB Detection on Chest X-rays**](https://github.com/jaferi512/tb-lung-segmentation-study) | Controlled study: does lung segmentation help TB detection? U-Net (Dice 0.975) + ResNet-18, leakage-free 5-fold CV, DeLong test, Grad-CAM · code for my paper | PyTorch · OpenCV · scikit-learn |
 
 ---
 
