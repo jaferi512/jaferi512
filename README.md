@@ -30,6 +30,11 @@
 - Synthetic images alone train a classifier to **65.0%** modality accuracy vs. 60.0% from 15 real images per modality
 - 📄 Manuscript in preparation · code will be released after publication
 
+**Now exploring: physics-informed, uncertainty-aware models for low-dose cardiac MRI**
+- Analysing public first-pass perfusion MRI and simulating reduced gadolinium doses with a two-compartment exchange model
+- First finding: standard model fitting gives error bars that are too narrow at full dose and only reach nominal coverage at low dose by becoming very wide, which is the gap uncertainty-aware models should close
+- 🔗 [lowdose-perfusion-cmr](https://github.com/jaferi512/lowdose-perfusion-cmr)
+
 ---
 
 ### 📌 Featured projects
@@ -42,7 +47,7 @@
 | **On-Device Medical Screening App** *(coming soon)* | Compressed model running offline on mobile | React Native · ONNX / Core ML / TFLite |
 | [**TB Detection on Chest X-rays**](https://github.com/jaferi512/tb_lung_segmentation_study) | Controlled study: does lung segmentation help TB detection? U-Net (Dice 0.975) + ResNet-18, leakage-free 5-fold CV, DeLong test, Grad-CAM · code for my paper | PyTorch · OpenCV · scikit-learn |
 | [**How few labels do you need?**](https://github.com/jaferi512/fewshot-medmnist-benchmark) | Few-shot benchmark on 4 imaging modalities: fine-tuned ResNet-18 vs frozen DINOv2/CLIP vs classical features · paired draws, 95% CIs, 400 runs | PyTorch · Hugging Face · scikit-learn |
-
+| [**Low-Dose Perfusion Cardiac MRI**](https://github.com/jaferi512/lowdose-perfusion-cmr) | Physics-informed analysis of first-pass myocardial perfusion MRI (10 patients, rest + stress): per-frame contour curves, perfusion reserve, two-compartment kinetic model, simulated gadolinium dose reduction, and a calibration check of fit uncertainty · *in progress* | Python · NumPy/SciPy · pydicom |
 ---
 
 ### 📚 Publications
