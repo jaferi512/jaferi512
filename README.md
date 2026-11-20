@@ -48,8 +48,8 @@
 ### 📚 Publications
 
 - **A. Haider**, I. Ullah, S. Hakeem, K. Ali. *Accurate lung segmentation does not improve deep learning detection of tuberculosis on chest radiographs: a controlled U-Net and ResNet-18 study.* Pak J Med Cardiol Rev, 2026. [DOI](https://pakjmcr.com/index.php/1/article/view/1834) · [Code](https://github.com/jaferi512/tb_lung_segmentation_study)
-- S. Zheng, W. Zhang, C. Tian, **A. Haider**, et al. *Masked Implicit Neural Representation.* Under review at IEEE Transactions on Industrial Informatics, 2026.
-- F. D. Puspitasari, C. Zhang, **A. Haider**, et al. *Sora as a World Model? A Complete Survey on Text-to-Video Generation.* Under review at ACM Computing Surveys, 2026.
+- S. Zheng, W. Zhang, C. Tian, **A. Haider**, D. Han, C. Zhang, K. Liu, L.-H. Lee, C. Qin. *Masked Implicit Neural Representation.* Under review at IEEE Transactions on Industrial Informatics, 2026.
+- F. D. Puspitasari, C. Zhang, **A. Haider**, N. U. Eman, O. Amin, Alexis, M. Umair, J. Zheng, S. Zheng, L.-H. Lee, C. Qin, T.-H. Kim, C. S. Hong, Y. Yang, H. T. Shen. *Sora as a World Model? A Complete Survey on Text-to-Video Generation.* Under review at ACM Computing Surveys, 2026.
 
 ---
 
