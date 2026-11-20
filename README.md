@@ -23,12 +23,8 @@
 
 ### 🔬 Current research
 
-**Contextual Multi-Token Hypergraph Adaptation for Few-Shot Brain MRI Generation**
-- A lightweight hypergraph adapter (1.18M params) that refines all CLIP token embeddings to steer Stable Diffusion toward clinical semantics
-- Combined with LoRA: **2.78M trainable parameters, 310× fewer** than full fine-tuning
-- **~37–40% lower FID** than the textual-inversion baseline on BraTS 2021 (T1, T1CE, T2, FLAIR)
-- Synthetic images alone train a classifier to **65.0%** modality accuracy vs. 60.0% from 15 real images per modality
-- 📄 Manuscript in preparation · code will be released after publication
+**Domain Adaptation for Few-Shot Brain MRI Generation**
+- I'm currently working on **generative AI for medical imaging**. The work is **in progress**, and details will be shared after publication.
 
 **Now exploring: physics-informed, uncertainty-aware models for low-dose cardiac MRI**
 - Analysing public first-pass perfusion MRI and simulating reduced gadolinium doses with a two-compartment exchange model
@@ -43,7 +39,6 @@
 
 | Project | What it shows | Stack |
 |---|---|---|
-| **HGNN Medical Diffusion** *(coming soon)* | Few-shot MRI generation with a hypergraph adapter + LoRA | PyTorch · Diffusers · CLIP |
 | **On-Device Medical Screening App** *(coming soon)* | Compressed model running offline on mobile | React Native · ONNX / Core ML / TFLite |
 | [**TB Detection on Chest X-rays**](https://github.com/jaferi512/tb_lung_segmentation_study) | Controlled study: does lung segmentation help TB detection? U-Net (Dice 0.975) + ResNet-18, leakage-free 5-fold CV, DeLong test, Grad-CAM · code for my paper | PyTorch · OpenCV · scikit-learn |
 | [**How few labels do you need?**](https://github.com/jaferi512/fewshot-medmnist-benchmark) | Few-shot benchmark on 4 imaging modalities: fine-tuned ResNet-18 vs frozen DINOv2/CLIP vs classical features · paired draws, 95% CIs, 400 runs | PyTorch · Hugging Face · scikit-learn |
